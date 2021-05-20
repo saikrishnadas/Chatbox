@@ -1,4 +1,5 @@
-#Chatbox
+**#Chatbox**
+![Logo](https://github.com/saikrishnadas/Chatbox/blob/main/src/chatbox-logo.svg)
 
 https://chatbox-efbc7.web.app/
 
@@ -6,4 +7,4 @@ https://chatbox-efbc7.web.app/
 
 ![login screenshot](https://github.com/saikrishnadas/Chatbox/blob/main/Screenshot-login.png)
 
-![Logo](https://github.com/saikrishnadas/Chatbox/blob/main/src/chatbox-logo.svg)
+
