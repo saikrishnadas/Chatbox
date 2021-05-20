@@ -8,7 +8,7 @@
 
 **Chatbox** is a community chatting app, in which we could create new channels that takes up different topics. 🎙
 This webapp is created using **Reactjs** , **Redux** , **Styled components** , **Firebase**.
-### This app is inspired from slack 
+*This app is inspired from slack* 
 
 
 ## Screenshots : 📸
