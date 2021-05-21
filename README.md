@@ -22,3 +22,4 @@ This webapp is created using **Reactjs** , **Redux** , **Styled components** , *
 ![login screenshot](https://github.com/saikrishnadas/Chatbox/blob/main/Screenshot-login.png)
 
 
+NOTE: This is not optimized to run on Mobile
